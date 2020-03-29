@@ -1,0 +1,22 @@
+.container {
+    padding-top: 100px;
+}
+
+#username, #password {
+    font-size: 18px;
+}
+
+.inputWithIcon {
+    position: relative;
+}
+
+.inputWithIcon i {
+    position: absolute;
+    right: 0;
+    padding-right: 15px;
+    padding-top: 12px;
+}
+
+.login-content {
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
